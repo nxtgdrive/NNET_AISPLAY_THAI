@@ -21,6 +21,8 @@ https://cdn6.goprimetime.info/feed/202105171329/ch3hd/index.m3u8
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png" group-title="Digital TV",PPTV
 https://cdn6.goprimetime.info/feed/202105171329/chpptvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png" group-title="Digital TV",ID Station
+https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r2/trueidstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU" group-title="Entertainment",Fwmov
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png" group-title="Entertainment",HBO
@@ -80,7 +82,7 @@ http://203.154.243.89:28010/pa/amazing.ts
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/271438c0-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Entertainment",True Inside
 https://streaming.livescorethai.net/iptv/sd-inside.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/28/3d92d760-200d-11ec-9629-7dc4459cd94d_webp_320.png" group-title="Entertainment",True Gaming Up
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115621&extension=ts&play_token
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truegamingup/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7189340-f183-11ec-a182-bfa9d2091cc3_webp_320.png" group-title="Documentary",History
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7184520-f183-11ec-abce-454310bded67_webp_320.png" group-title="Documentary",H2
@@ -99,14 +101,22 @@ https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8|Referer=
 http://203.154.243.88:11088/hi/natgeo
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fdcf08ac0-b368-4991-99ea-e07df194bf63.png&w=100&h=75" group-title="Documentary",BBC Earth 
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=100&h=75" group-title="Documentary",True Wild
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truewild/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F76f8506f-b775-4a6f-ba79-752ecb8ee516.png&w=100&h=75" group-title="Documentary",True Sci
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truesci/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png&w=100&h=75" group-title="Documentary",True Life
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truelife/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.nextsteptv.com/wp-content/uploads/2018/03/logo_SRL-01-26-03-.png?fit=300%2C100" group-title="Documentary",Sumlojlok
-https://cdn6.goprimetime.info/feed/202105171329/LC8/playlist.m3u8
+https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjQ0IEFNJmhhc2hfdmFsdWU9MWRxcVhpSHliZWI5SFo5RlV3MElyZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMSZpZD1jaF8yNzIxMQ==|Referer=https://wacth.tv/
 #EXTINF:-1 tvg-logo="https://www.butterfire.com/wp-content/uploads/MySci.jpg" group-title="Documentary",My Sci
-https://cdn6.goprimetime.info/feed/202105171329/LC37/playlist.m3u8
+https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjA5IEFNJmhhc2hfdmFsdWU9NFRxTzVoS2YvNnNJSUoxUExScmtvQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF82MDQxNQ==|Referer=https://wacth.tv/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
 https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1 warp
 https://stream.warpballsod.tv/epl1.m3u8|Referer=https://www.warpballsod.tv/
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1 to you
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 2
 https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 3
@@ -139,6 +149,8 @@ https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8|Referer
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv1/playlist.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 2
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv2/playlist.m3u8|Referer=https://www.livestream88.com/
+#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png" group-title="Sport",3BB Sport One
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/3bbsport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fb672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png&w=100&h=75" group-title="Sport",Motor vision
 https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r8/motorvision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",True Tennis
