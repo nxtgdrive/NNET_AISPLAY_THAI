@@ -75,10 +75,8 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/blueant/play
 https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r8/blueantex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlcMnD.png" group-title="Entertainment",Just Fun
 https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjEwOjMwIEFNJmhhc2hfdmFsdWU9TmNCWEJjRmt0Njh4MEFjWSttc0xJUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF81MzgyNQ==|Referer=https://wacth.tv/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Just_for_Laughs_Gags_Logo.png" group-title="Entertainment",Just For Laughs
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQeqcL_atfy727Dbp4I0I5xMMupUu4dJQOkQ3gM8NCU3JFiV3mwXRm-spAYhxmpLb2lcA&usqp=CAU" group-title="Entertainment",Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://bit.ly/3Dzjhkl" group-title="Entertainment",Amazing Show
-http://203.154.243.89:28010/pa/amazing.ts
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/271438c0-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Entertainment",True Inside
 https://streaming.livescorethai.net/iptv/sd-inside.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/28/3d92d760-200d-11ec-9629-7dc4459cd94d_webp_320.png" group-title="Entertainment",True Gaming Up
