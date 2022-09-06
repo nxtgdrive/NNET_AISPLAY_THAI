@@ -4,25 +4,25 @@ http://27.254.142.208:8200/stream/1/
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png" group-title="Radio",เพื่่อชีวิต Request Radio
 https://cast.requestradio.in.th:830/https:/cast.requestradio.in.th:830/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=100&h=75" group-title="Digital TV",Workpoint
-https://cdn6.goprimetime.info/feed/202105171329/chworkpoint/index.m3u8
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/workpoint_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=100&h=75" group-title="Digital TV",True4You
-https://cdn6.goprimetime.info/feed/202105171329/chtrue4u/index.m3u8
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r2/true4u_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png" group-title="Digital TV",GMM 25
-https://cdn6.goprimetime.info/feed/202105171329/chgmm/index.m3u8
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/gmm25_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F35a35017-8473-4953-8474-5c58d805b74a.png&w=100&h=75" group-title="Digital TV",Mono29
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/chunklist_w1521064261.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F482a2a27-3942-4356-8f12-4aec229badc6.png&w=100&h=75" group-title="Digital TV",MCOT 30
 http://183.89.246.119:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F396384be-35dc-4d11-bf04-06c9546ec7bc.png&w=100&h=75" group-title="Digital TV",One31
-https://cdn6.goprimetime.info/feed/202105171329/chonehd/index.m3u8
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/tvdigital_one_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F8761bb82-f902-4372-8b9f-34b019d36fb7.png&w=100&h=75" group-title="Digital TV",Thairath
 http://183.89.246.119:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png" group-title="Digital TV",3HD
-https://cdn6.goprimetime.info/feed/202105171329/ch3hd/index.m3u8
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/3hd_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F1b6b5ad2-a97c-4935-886a-bc6c60073f67.png&w=100&h=75" group-title="Digital TV",7HD
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png" group-title="Digital TV",PPTV
-https://cdn6.goprimetime.info/feed/202105171329/chpptvhd/index.m3u8
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/pptv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png" group-title="Digital TV",ID Station
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/trueidstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU" group-title="Entertainment",Fwmov
