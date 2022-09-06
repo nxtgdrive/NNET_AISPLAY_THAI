@@ -239,6 +239,18 @@ https://xxx.77player.xyz/autoplaylist/4f8230b4f8ebc522c2ce1ad695f63497/4f8230b4f
 https://xxx.77player.xyz/autoplaylist/3f78e168fbf36e54f32bfa58ddc1240a/3f78e168fbf36e54f32bfa58ddc1240a.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gNHjC1T36Ektdq5pWeeWy2tvmFd.jpg" group-title="Movie",A Quiet Place (2018)
 https://xxx.77player.xyz/autoplaylist/6d683cf8ecc262dddc771b424c401027/6d683cf8ecc262dddc771b424c401027.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1P7w3AImoEOWJX7nn3fdaKDfEQA.jpg" group-title="Movie",Transformers (2007)
+https://p2p-ns1.sage.stream/hls/transformers-2007/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg" group-title="Movie",Transformers 2 Revenge of The Fallen (2009)
+https://p2p-ns1.sage.stream/hls/transformers-2-revenge-of-the-fallen-2009/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg" group-title="Movie",Transformers The Dark of The Moon (2011)
+https://p2p-ns1.sage.stream/hls/transformers-3-dark-of-the-moon-2011/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg" group-title="Movie",Transformers Age of Extinction (2014)
+https://p2p-ns1.sage.stream/hls/transformers-age-of-extinction-2014/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sFKwOBz18DMx3JTjiOGYeDVAr5p.jpg" group-title="Movie",Transformers 5 The Last Knight (2017)
+https://p2p-ns1.sage.stream/hls/transformers-the-last-knight-2017/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6EKyH1wWLlSkdhkvyFkPvGRsAp5.jpg" group-title="Movie",Mortal Engines (2018)
+https://p2p-ns1.sage.stream/hls/mortal-engines-2018/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/52WSrke4hCaOVPEduPJTTX07ZVv.jpg" group-title="Marvel",Iron Man 1 (2008) 
 https://p2p-ns1.sage.stream/hls/iron-man-2008/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg" group-title="Marvel",The Incredible Hulk (2008)
