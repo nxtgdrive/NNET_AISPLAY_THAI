@@ -221,10 +221,14 @@ https://p2p-ns1.sage.stream/hls/mission-impossible-fallout-2018/index.m3u8
 https://p2p-ns1.sage.stream/hls/saving-private-ryan-1998/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7oHI1PeY0nwuPcBpmcr8OEZm03U.jpg" group-title="Movie",Joker (2019)
 https://p2p-ns1.sage.stream/hls/joker-2019/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg" group-title="Movie",The Shawshank Redemption (1994)
+https://m1free.inwstream.com:1936/movie1/The-Shawshank-Redemption-1994/The-Shawshank-Redemption-1994-TH-1080p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mOC6wmLsdTgT38aQK5NRh7rlP75.jpg" group-title="Movie",Forrest Gump (1994)
 https://m1free.inwstream.com:1936/movie3/Forrest-Gump-1994/Forrest-Gump-1994-TH-720p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gx36DX1RLixLu6sBWgmdiDr7Rbb.jpg" group-title="Movie",Interstellar (2014)
 https://p2p-ns1.sage.stream/hls/interstellar-2014/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uI1gJI93hpbP0L1OqjUQNwKHbq7.jpg" group-title="Movie",Inception (2010)
+https://m1free.inwstream.com:1936/movie1/inception-2010/Inception-2010-TH-1080p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/velWPhVMQeQKcxggNEU8YmIo52R.jpg" group-title="Movie",The Green Mile (1999)
 https://m1free.inwstream.com:1936/movie1/The-Green-Mile-1999/The-Green-Mile-1999-TH-720p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fNPriZ0IlRVMkOFB6xeYRtvy561.jpg" group-title="Movie",1917 (2019)
