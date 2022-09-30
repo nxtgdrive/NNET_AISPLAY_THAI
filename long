@@ -111,8 +111,8 @@ https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign
 https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjA5IEFNJmhhc2hfdmFsdWU9NFRxTzVoS2YvNnNJSUoxUExScmtvQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF82MDQxNQ==|Referer=https://wacth.tv/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
 https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1 warp
-https://rr5---sn-w5nuxa-c33lk-33.googleuservideo.com/ball24tv_s1/trueepl1_480p/playlist.m3u8|Referer=https://www.warpballsod.tv/
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1 
+https://cdn.googlecdnforstreaming.live/dbf789/epl1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 2
 https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 3
@@ -123,12 +123,12 @@ https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8|Referer=http
 https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png" group-title="Sport",Bein 1
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png" group-title="Sport",Bein 1 wrap
-https://stream.warpballsod.tv/bein1.m3u8|Referer=https://www.warpballsod.tv/
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png" group-title="Sport",Bein 1 
+https://cdn.googlecdnforstreaming.live/dbf789/bein1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png" group-title="Sport",Bein 3
 https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png" group-title="Sport",Bein 3 warp
-https://stream.warpballsod.tv/bein3.m3u8|Referer=https://www.warpballsod.tv/
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png" group-title="Sport",Bein 3 
+https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Sport",Sport HD1
 https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",Sport HD2
@@ -150,9 +150,9 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbsport/pla
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fb672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png&w=100&h=75" group-title="Sport",Motor vision
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r8/motorvision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",True Tennis
-https://stream.warpballsod.tv/truetennis.m3u8|Referer=https://www.warpballsod.tv/
+https://cdn.googlecdnforstreaming.live/dbf789/tennis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fa1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png&w=100&h=75" group-title="Sport",NBA
-https://stream.warpballsod.tv/truenba.m3u8|Referer=https://www.warpballsod.tv/
+https://cdn.googlecdnforstreaming.live/dbf789/nba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png" group-title="Sport Inter",Sky Sport Premierleague
 https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football.png" group-title="Sport Inter",Sky Sport Football
