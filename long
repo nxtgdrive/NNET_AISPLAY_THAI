@@ -154,19 +154,21 @@ https://cdn.googlecdnforstreaming.live/dbf789/tennis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fa1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png&w=100&h=75" group-title="Sport",NBA
 https://cdn.googlecdnforstreaming.live/dbf789/nba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png" group-title="Sport Inter",Sky Sport Premierleague
-https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/skysportpremiere/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football.png" group-title="Sport Inter",Sky Sport Football
-https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportfootball/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mainevent.png" group-title="Sport Inter",Sky Sport Main Event
-https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/skysportmainevent/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-arena.png" group-title="Sport Inter",Sky Sports Arena
-https://streaming.livescorethai.net/iptv/uk-skysports-arena.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/skysportarena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-action.png" group-title="Sport Inter",Sky Sports Action
-https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png" group-title="Sport Inter",Sky Bundesliga
-https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/skysportaction/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png" group-title="Sport Inter",Sky Sport Bundesliga
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/skysportbundesliga/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mix.png" group-title="Sport Inter",Sky Sports Mix
-https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/skysportmix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-fi.png" group-title="Sport Inter",Sky Sports F1
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/skysportf1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="Sport Inter",Astro Sport 1
 https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHWX3lBxCab04VNGJCJZ8k__yPPx-Uqzeqw&usqp=CAU" group-title="Sport Inter",Astro Sport 2
@@ -184,13 +186,31 @@ https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/arenasport3s
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_4.png" group-title="Sport Inter",Arena Sport 4
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/arenasport4serbia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_5.png" group-title="Sport Inter",Arena Sport 5
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/628
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/arenasport5sr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png" group-title="Sport Inter",BT Sport 1
-https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png" group-title="Sport Inter",BT Sport 2
-https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png" group-title="Sport Inter",BT Sport 3
-https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sport-tv.png" group-title="Sport Inter",Sport TV 1
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/sporttv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sport-tv.png" group-title="Sport Inter",Sport TV 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sporttv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sport-tv.png" group-title="Sport Inter",Sport TV 3
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/sporttv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sport-tv.png" group-title="Sport Inter",Sport TV 4
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/sporttv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sport-tv.png" group-title="Sport Inter",Sport TV 5
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/sporttv5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport Inter",Digi Sport 1
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport Inter",Digi Sport 2
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport Inter",Digi Sport 3
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport Inter",Digi Sport 4
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png" group-title="Sport Inter",Euro Sport 1
 https://streaming.livescorethai.net/iptv/fr-eurosport.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png" group-title="Sport Inter",Euro Sport 2
@@ -202,7 +222,7 @@ https://streaming.livescorethai.net/iptv/us-foxsports2.stream/playlist.m3u8|Refe
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/espn.png" group-title="Sport Inter",ESPN
 https://streaming.livescorethai.net/iptv/uk-espn.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png" group-title="Sport Inter",Fight Sport
-http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yiG0XAru2oU6UFLYJNE1oPbhZ5o.jpg" group-title="Movie",Gladiator (2000)
 https://p2p-ns1.sage.stream/hls/gladiator-2000/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/unbrtK8zEjPANvNkbwhjpSxYWzN.jpg" group-title="Movie",Avatar (2009)
