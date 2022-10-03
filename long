@@ -223,6 +223,14 @@ https://streaming.livescorethai.net/iptv/us-foxsports2.stream/playlist.m3u8|Refe
 https://streaming.livescorethai.net/iptv/uk-espn.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png" group-title="Sport Inter",Fight Sport
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/unbrtK8zEjPANvNkbwhjpSxYWzN.jpg" group-title="Movie 3D",Avatar 3D (2009)
+https://m1free.inwstream.com:1936/movie1/Avatar-2009-3D/Avatar-2009-TH-1080p-3D.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pMIduz1F4aQqD6OP26eOTiZ4i1P.jpg" group-title="Movie 3D",Alita Battle Angel 3D (2019)
+https://m1free.inwstream.com:1936/movie3/Alita_Battle_Angel_2019_3D/Alita_Battle_Angel_2019_TH_1080p_3D.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/deqPYKBT4Q3fnbFA73e5eeXvCwV.jpg" group-title="Movie 3D",Ready Player One 3D (2018)
+https://m1free.inwstream.com:1936/movie3/Ready-Player-One-2018-3D/Ready-Player-One-2018-TH-1080p-3D.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wmUeEacsFZzDndaeOtNNmy26rYJ.jpg" group-title="Movie 3D",Gravity 3D (2013)
+https://m1free.inwstream.com:1936/movie1/Gravity-2013-3D/Gravity-2013-TH-1080p-3D.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yiG0XAru2oU6UFLYJNE1oPbhZ5o.jpg" group-title="Movie",Gladiator (2000)
 https://p2p-ns1.sage.stream/hls/gladiator-2000/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/unbrtK8zEjPANvNkbwhjpSxYWzN.jpg" group-title="Movie",Avatar (2009)
@@ -393,59 +401,3 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Woman (720p)
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 1 (PC) (1080p) [Not 24/7]
-https://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 2 (PC) (1080p) [Not 24/7]
-https://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/babestation-24-uk-de.png" group-title="XXX",Babestation24 (720p)
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QEyOs2T.png" group-title="XXX",Extasy HD / Leo TV HD (576p)
-http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="XXX",Fashion TV Midnight Secrets (1080p)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iWG82fa.png" group-title="XXX",Honey TV (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/HoneyTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BEx0Ek1.png" group-title="XXX",Miami TV Jenny Live (720p) [Not 24/7]
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5tUClU.png" group-title="XXX",Miami TV Latino (1080p)
-https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ou5afOB.jpg" group-title="XXX",Miami TV México (720p) [Not 24/7]
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ohIAorZ.png" group-title="XXX",Midnight (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Anal
-http://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Asian
-http://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Ass
-http://live.mycamtv.com/defstream.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Tits
-http://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Blonde
-http://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Brunette
-http://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Ebony
-http://live.mycamtv.com/medium.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Latina
-http://live.mycamtv.com/latina.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Skinny
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Squirt
-http://live.mycamtv.com/squirt.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV White
-http://live.mycamtv.com/white.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/olala_ru.png" group-title="XXX",O-la-la [Not 24/7]
-http://92.242.14.114:4022/udp/225.0.55.234:1234
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k00nQ6l.png" group-title="XXX",Playboy TV Korea (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aCDdc13.png" group-title="XXX",Viki (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WPZ4F5Q.png" group-title="XXX",Visit-X TV (720p) [Not 24/7]
-https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-max-uk.png" group-title="XXX",XY Max
-http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-mix-uk.png" group-title="XXX",XY Mix
-http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-plus-bg.png" group-title="XXX",XY Plus
-http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
