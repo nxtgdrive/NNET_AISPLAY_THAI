@@ -60,7 +60,7 @@ https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/hd-asianseri
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="Entertainment",X-Zyte 
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2F75398c9a-caad-4e92-8356-5a625a36c498.png&w=100&h=75" group-title="Entertainment",Lifetime 
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/lifetime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fc187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png&w=100&h=75" group-title="Entertainment",BBC Lifestyle
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbclifestyle/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ff2c30832-7d77-4a24-88ad-1d30c593bda1.png&w=100&h=75" group-title="Entertainment",Outdoor
@@ -142,7 +142,7 @@ https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Sport",Sport HD7
 https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 1
-https://cdn.googlecdnforstreaming.live/dbf789/spotv/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv1/playlist.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 2
 https://cdn.googlecdnforstreaming.live/dbf789/spotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png" group-title="Sport",3BB Sport One
@@ -164,7 +164,7 @@ https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/skysportaren
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-action.png" group-title="Sport Inter",Sky Sports Action
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/skysportaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png" group-title="Sport Inter",Sky Sport Bundesliga
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/skysportbundesliga/playlist.m3u8
+https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mix.png" group-title="Sport Inter",Sky Sports Mix
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/skysportmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-fi.png" group-title="Sport Inter",Sky Sports F1
@@ -177,15 +177,15 @@ https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/astrosupersp
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/astrosupersport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="Sport Inter",Astro Sport 4
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_1.png" group-title="Sport Inter",Arena Sport 1
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png" group-title="Sport Inter",Arena Sport 1
 https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/arenasport1serbia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="Sport Inter",Arena Sport 2
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png" group-title="Sport Inter",Arena Sport 2
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/arenasport2serbia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_3.png" group-title="Sport Inter",Arena Sport 3
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png" group-title="Sport Inter",Arena Sport 3
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/arenasport3serbia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_4.png" group-title="Sport Inter",Arena Sport 4
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png" group-title="Sport Inter",Arena Sport 4
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/arenasport4serbia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_5.png" group-title="Sport Inter",Arena Sport 5
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png" group-title="Sport Inter",Arena Sport 5
 https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/arenasport5sr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png" group-title="Sport Inter",BT Sport 1
 https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8
