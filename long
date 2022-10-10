@@ -25,38 +25,40 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/pptv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png" group-title="Digital TV",ID Station
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/trueidstation/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU" group-title="Entertainment",Fwmov
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU" group-title="Movie Live",Fwmov
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png" group-title="Entertainment",HBO
+#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png" group-title="Movie Live",HBO
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png" group-title="Entertainment",HBO Signature
+#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png" group-title="Movie Live",HBO Signature
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-hbo-signature/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/hbohit.png" group-title="Entertainment",HBO HIT
+#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/hbohit.png" group-title="Movie Live",HBO HIT
 https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/hd-hbo-hit/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png" group-title="Entertainment",HBO Family
+#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png" group-title="Movie Live",HBO Family
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/hbo-family/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png" group-title="Entertainment",Cinemax
+#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png" group-title="Movie Live",Cinemax
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/fhd-cinemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",NK TV
+#EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",NK TV
 http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_mono29plus.png?4" group-title="Movie Live",Mono29 Plus
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/monoplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Movie Hit 
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/moviehits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Film HD 1
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/true-filmhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Film HD 2
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Movie Live",Thai Film
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/truethaifilm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Movie Live",Film Asia
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truefilmasia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png" group-title="Movie Live",Asian More
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/hd-asianseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_320.png" group-title="Entertainment",Warner TV 
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/wbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F783549d6-9b0d-4b4a-ab42-3bdd932bf544.png&w=100&h=75" group-title="Entertainment",Paramount 
 https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/paramount/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fa1e34189-e612-4afa-b784-6a01215bc592.png&w=100&h=75" group-title="Entertainment",AXN
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-axn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",Movie Hit 
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/moviehits/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",Film HD 1
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/true-filmhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",Film HD 2
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Entertainment",Thai Film
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/truethaifilm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Entertainment",Film Asia
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truefilmasia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png" group-title="Entertainment",Asian More
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/hd-asianseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="Entertainment",X-Zyte 
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2F75398c9a-caad-4e92-8356-5a625a36c498.png&w=100&h=75" group-title="Entertainment",Lifetime 
@@ -96,7 +98,7 @@ https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/discovery-as
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2Fc9963ddf-818d-4d8b-abe6-c87604ba2f1e.png&w=100&h=75" group-title="Documentary",Nationnal Geographic 
 https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nat-geo-wild.png" group-title="Documentary",Nat Geo Wild
-http://203.154.243.88:11088/hi/natgeo
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/hd-natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fdcf08ac0-b368-4991-99ea-e07df194bf63.png&w=100&h=75" group-title="Documentary",BBC Earth 
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbcearth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=100&h=75" group-title="Documentary",True Wild
