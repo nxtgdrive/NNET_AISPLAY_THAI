@@ -144,9 +144,9 @@ https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Sport",Sport HD7
 https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv1/playlist.m3u8|Referer=https://www.livestream88.com/
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/spotv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 2
-https://cdn.googlecdnforstreaming.live/dbf789/spotv2/playlist.m3u8
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/spotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png" group-title="Sport",3BB Sport One
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbsport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fb672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png&w=100&h=75" group-title="Sport",Motor vision
