@@ -24,91 +24,87 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png" group-title="Digital TV",PPTV
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png" group-title="Digital TV",ID Station
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/trueidstation/playlist.m3u8
+https://www.doofootball.com/dootv/live/trueidstation
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU" group-title="Movie Live",Fwmov
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png" group-title="Movie Live",HBO
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8
+https://www.doofootball.com/dootv/live/hd-hbo-thai
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png" group-title="Movie Live",HBO Signature
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-hbo-signature/playlist.m3u8
+https://www.doofootball.com/dootv/live/hd-hbo-signature
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/hbohit.png" group-title="Movie Live",HBO HIT
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/hd-hbo-hit/playlist.m3u8
+https://www.doofootball.com/dootv/live/hd-hbo-hit
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png" group-title="Movie Live",HBO Family
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/hbo-family/playlist.m3u8
+https://www.doofootball.com/dootv/live/hbo-family
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png" group-title="Movie Live",Cinemax
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/fhd-cinemax/playlist.m3u8
+https://www.doofootball.com/dootv/live/fhd-cinemax
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",NK TV
 http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_mono29plus.png?4" group-title="Movie Live",Mono29 Plus
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/monoplus/playlist.m3u8
+https://www.doofootball.com/dootv/live/monoplus
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Movie Hit 
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Film HD 1
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Film HD 2
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8
+https://www.doofootball.com/dootv/live/true-filmhd2
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Movie Live",Thai Film
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Movie Live",Film Asia
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truefilmasia/playlist.m3u8
+https://www.doofootball.com/dootv/live/truefilmasia
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png" group-title="Movie Live",Asian More
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/hd-asianseries/playlist.m3u8
+https://www.doofootball.com/dootv/live/hd-asianseries
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_320.png" group-title="Entertainment",Warner TV 
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F783549d6-9b0d-4b4a-ab42-3bdd932bf544.png&w=100&h=75" group-title="Entertainment",Paramount 
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/paramount/playlist.m3u8
+https://www.doofootball.com/dootv/live/paramount
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fa1e34189-e612-4afa-b784-6a01215bc592.png&w=100&h=75" group-title="Entertainment",AXN
 https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="Entertainment",X-Zyte 
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8
+https://www.doofootball.com/dootv/live/xzyte
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2F75398c9a-caad-4e92-8356-5a625a36c498.png&w=100&h=75" group-title="Entertainment",Lifetime 
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fc187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png&w=100&h=75" group-title="Entertainment",BBC Lifestyle
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbclifestyle/playlist.m3u8
+https://www.doofootball.com/dootv/live/bbclifestyle
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ff2c30832-7d77-4a24-88ad-1d30c593bda1.png&w=100&h=75" group-title="Entertainment",Outdoor
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/outdoor/playlist.m3u8
+https://www.doofootball.com/dootv/live/outdoor
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/b7dfcc90-b550-11ea-b61c-7dd99cb3fb2c_320.png" group-title="Entertainment",TLC 
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/hd-tlc/playlist.m3u8
+https://www.doofootball.com/dootv/live/hd-tlc
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/31/bd3a2340-3a63-11ec-84ef-a5cdc7ce4314_320.png" group-title="Entertainment",Food Network
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/foodnetwork/playlist.m3u8
+https://www.doofootball.com/dootv/live/foodnetwork
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_320.png" group-title="Entertainment",afn
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r8/hd-afc/playlist.m3u8
+https://www.doofootball.com/dootv/live/hd-afc
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_320.png" group-title="Entertainment",Rock Entertainment
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/blueant/playlist.m3u8
+https://www.doofootball.com/dootv/live/blueant
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/12db2650-0a7b-11ec-8b33-05dadd6cbd44_320.png" group-title="Entertainment",Rock Extreme
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r8/blueantex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlcMnD.png" group-title="Entertainment",Just Fun
-https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjEwOjMwIEFNJmhhc2hfdmFsdWU9TmNCWEJjRmt0Njh4MEFjWSttc0xJUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF81MzgyNQ==|Referer=https://wacth.tv/
+https://www.doofootball.com/dootv/live/blueantex
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQeqcL_atfy727Dbp4I0I5xMMupUu4dJQOkQ3gM8NCU3JFiV3mwXRm-spAYhxmpLb2lcA&usqp=CAU" group-title="Entertainment",Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/271438c0-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Entertainment",True Inside
 https://streaming.livescorethai.net/iptv/sd-inside.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/28/3d92d760-200d-11ec-9629-7dc4459cd94d_webp_320.png" group-title="Entertainment",True Gaming Up
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truegamingup/playlist.m3u8
+https://www.doofootball.com/dootv/live/truegamingup
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7189340-f183-11ec-a182-bfa9d2091cc3_webp_320.png" group-title="Documentary",History
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7184520-f183-11ec-abce-454310bded67_webp_320.png" group-title="Documentary",H2
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-history2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F02%2F06%2F14c29171-17c8-4c57-996c-2e947bf8a34a.png&w=100&h=75" group-title="Documentary",Animal Plannet
 https://www.doofootball.com/dootv/live/animalplanet
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime Investigation
 https://www.doofootball.com/dootv/live/ci
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png" group-title="Documentary",Discovery
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-discovery/playlist.m3u8
+https://www.doofootball.com/dootv/live/hd-discovery
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F978fc2da-8f65-410f-bff8-931b22c37324.png&w=100&h=75" group-title="Documentary",Discovery Asia 
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2Fc9963ddf-818d-4d8b-abe6-c87604ba2f1e.png&w=100&h=75" group-title="Documentary",Nationnal Geographic 
 https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nat-geo-wild.png" group-title="Documentary",Nat Geo Wild
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/hd-natgeowild/playlist.m3u8
+https://www.doofootball.com/dootv/live/hd-natgeowild
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fdcf08ac0-b368-4991-99ea-e07df194bf63.png&w=100&h=75" group-title="Documentary",BBC Earth 
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=100&h=75" group-title="Documentary",True Wild
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truewild/playlist.m3u8
+https://www.doofootball.com/dootv/live/truewild
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F76f8506f-b775-4a6f-ba79-752ecb8ee516.png&w=100&h=75" group-title="Documentary",True Sci
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/truesci/playlist.m3u8
+https://www.doofootball.com/dootv/live/truesci
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png&w=100&h=75" group-title="Documentary",True Life
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truelife/playlist.m3u8
+https://www.doofootball.com/dootv/live/truelife
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.nextsteptv.com/wp-content/uploads/2018/03/logo_SRL-01-26-03-.png?fit=300%2C100" group-title="Documentary",Sumlojlok
 https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.butterfire.com/wp-content/uploads/MySci.jpg" group-title="Documentary",My Sci
@@ -116,7 +112,7 @@ https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
 https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1 
-https://cdn.googlecdnforstreaming.live/dbf789/epl1/playlist.m3u8
+https://www.doofootball.com/dootv/live/epl1
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 2
 https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 3
@@ -128,11 +124,11 @@ https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8|Referer=http
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png" group-title="Sport",Bein 1
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png" group-title="Sport",Bein 1 
-https://cdn.googlecdnforstreaming.live/dbf789/bein1/playlist.m3u8
+https://www.doofootball.com/dootv/live/bein1
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png" group-title="Sport",Bein 3
 https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png" group-title="Sport",Bein 3 
-https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
+https://www.doofootball.com/dootv/live/bein3
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Sport",Sport HD1
 https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",Sport HD2
@@ -150,13 +146,13 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv1/playlist.m3u8|Refe
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 2
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv2/playlist.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png" group-title="Sport",3BB Sport One
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbsport/playlist.m3u8
+https://www.doofootball.com/dootv/live/3bbsport
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fb672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png&w=100&h=75" group-title="Sport",Motor vision
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r8/motorvision/playlist.m3u8
+https://www.doofootball.com/dootv/live/motorvision
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",True Tennis
-https://cdn.googlecdnforstreaming.live/dbf789/tennis/playlist.m3u8
+https://www.doofootball.com/dootv/live/tennis
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fa1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png&w=100&h=75" group-title="Sport",NBA
-https://cdn.googlecdnforstreaming.live/dbf789/nba/playlist.m3u8
+https://www.doofootball.com/dootv/live/nba
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png" group-title="Sport Inter",Sky Sport Premierleague
 https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football.png" group-title="Sport Inter",Sky Sport Football
@@ -172,49 +168,49 @@ https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/playlist.m3u8|R
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mix.png" group-title="Sport Inter",Sky Sports Mix
 https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-fi.png" group-title="Sport Inter",Sky Sports F1
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/skysportf1/playlist.m3u8
+https://www.doofootball.com/dootv/live/skysportf1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="Sport Inter",Astro Sport 1
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport/playlist.m3u8
+https://www.doofootball.com/dootv/live/astrosupersport
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHWX3lBxCab04VNGJCJZ8k__yPPx-Uqzeqw&usqp=CAU" group-title="Sport Inter",Astro Sport 2
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/astrosupersport2/playlist.m3u8
+https://www.doofootball.com/dootv/live/astrosupersport2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="Sport Inter",Astro Sport 3
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/astrosupersport3/playlist.m3u8
+https://www.doofootball.com/dootv/live/astrosupersport3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="Sport Inter",Astro Sport 4
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport4/playlist.m3u8
+https://www.doofootball.com/dootv/live/astrosupersport4
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png" group-title="Sport Inter",Arena Sport 1
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/arenasport1serbia/playlist.m3u8
+https://www.doofootball.com/dootv/live/arenasport1serbia
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png" group-title="Sport Inter",Arena Sport 2
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/arenasport2serbia/playlist.m3u8
+https://www.doofootball.com/dootv/live/arenasport2serbia
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png" group-title="Sport Inter",Arena Sport 3
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/arenasport3serbia/playlist.m3u8
+https://www.doofootball.com/dootv/live/arenasport3serbia
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png" group-title="Sport Inter",Arena Sport 4
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/arenasport4serbia/playlist.m3u8
+https://www.doofootball.com/dootv/live/arenasport4serbia
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png" group-title="Sport Inter",Arena Sport 5
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/arenasport5sr/playlist.m3u8
+https://www.doofootball.com/dootv/live/arenasport5sr
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png" group-title="Sport Inter",BT Sport 1
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8
+https://www.doofootball.com/dootv/live/btsport1
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png" group-title="Sport Inter",BT Sport 2
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8
+https://www.doofootball.com/dootv/live/btsport2
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png" group-title="Sport Inter",BT Sport 3
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8
+https://www.doofootball.com/dootv/live/btsport2
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sport-tv.png" group-title="Sport Inter",Sport TV 1
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/sporttv1/playlist.m3u8
+https://www.doofootball.com/dootv/live/sporttv1
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sport-tv.png" group-title="Sport Inter",Sport TV 2
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sporttv2/playlist.m3u8
+https://www.doofootball.com/dootv/live/sporttv2
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sport-tv.png" group-title="Sport Inter",Sport TV 3
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/sporttv3/playlist.m3u8
+https://www.doofootball.com/dootv/live/sporttv3
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sport-tv.png" group-title="Sport Inter",Sport TV 4
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/sporttv4/playlist.m3u8
+https://www.doofootball.com/dootv/live/sporttv4
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sport-tv.png" group-title="Sport Inter",Sport TV 5
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/sporttv5/playlist.m3u8
+https://www.doofootball.com/dootv/live/sporttv5
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport Inter",Digi Sport 1
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
+https://www.doofootball.com/dootv/live/digisport1romania
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport Inter",Digi Sport 2
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
+https://www.doofootball.com/dootv/live/digisport2romania
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport Inter",Digi Sport 3
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
+https://www.doofootball.com/dootv/live/digisport3romania
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport Inter",Digi Sport 4
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
+https://www.doofootball.com/dootv/live/digisport4romania
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png" group-title="Sport Inter",Euro Sport 1
 https://streaming.livescorethai.net/iptv/fr-eurosport.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png" group-title="Sport Inter",Euro Sport 2
