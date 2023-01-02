@@ -28,15 +28,15 @@ https://www.doofootball.com/dootv/live/trueidstation
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU" group-title="Movie Live",Fwmov
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png" group-title="Movie Live",HBO
-https://www.doofootball.com/dootv/live/hd-hbo-thai
+https://www.doofootball.com/dootv/live/hbohd
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png" group-title="Movie Live",HBO Signature
-https://www.doofootball.com/dootv/live/hd-hbo-signature
+https://www.doofootball.com/dootv/live/hbosignature
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/hbohit.png" group-title="Movie Live",HBO HIT
-https://www.doofootball.com/dootv/live/hd-hbo-hit
+https://www.doofootball.com/dootv/live/hbohit
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png" group-title="Movie Live",HBO Family
-https://www.doofootball.com/dootv/live/hbo-family
+https://www.doofootball.com/dootv/live/hbofamily
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png" group-title="Movie Live",Cinemax
-https://www.doofootball.com/dootv/live/fhd-cinemax
+https://www.doofootball.com/dootv/live/cinemax
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",NK TV
 http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_mono29plus.png?4" group-title="Movie Live",Mono29 Plus
@@ -46,13 +46,13 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8|Refer
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Film HD 1
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Film HD 2
-https://www.doofootball.com/dootv/live/true-filmhd2
+https://www.doofootball.com/dootv/live/truefilmhd2
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Movie Live",Thai Film
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Movie Live",Film Asia
 https://www.doofootball.com/dootv/live/truefilmasia
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png" group-title="Movie Live",Asian More
-https://www.doofootball.com/dootv/live/hd-asianseries
+https://www.doofootball.com/dootv/live/asianseries
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_320.png" group-title="Entertainment",Warner TV 
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F783549d6-9b0d-4b4a-ab42-3bdd932bf544.png&w=100&h=75" group-title="Entertainment",Paramount 
@@ -68,11 +68,11 @@ https://www.doofootball.com/dootv/live/bbclifestyle
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ff2c30832-7d77-4a24-88ad-1d30c593bda1.png&w=100&h=75" group-title="Entertainment",Outdoor
 https://www.doofootball.com/dootv/live/outdoor
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/b7dfcc90-b550-11ea-b61c-7dd99cb3fb2c_320.png" group-title="Entertainment",TLC 
-https://www.doofootball.com/dootv/live/hd-tlc
+https://www.doofootball.com/dootv/live/tlc
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/31/bd3a2340-3a63-11ec-84ef-a5cdc7ce4314_320.png" group-title="Entertainment",Food Network
 https://www.doofootball.com/dootv/live/foodnetwork
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_320.png" group-title="Entertainment",afn
-https://www.doofootball.com/dootv/live/hd-afc
+https://www.doofootball.com/dootv/live/afc
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_320.png" group-title="Entertainment",Rock Entertainment
 https://www.doofootball.com/dootv/live/blueant
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/12db2650-0a7b-11ec-8b33-05dadd6cbd44_320.png" group-title="Entertainment",Rock Extreme
@@ -90,13 +90,13 @@ https://www.doofootball.com/dootv/live/animalplanet
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime Investigation
 https://www.doofootball.com/dootv/live/ci
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png" group-title="Documentary",Discovery
-https://www.doofootball.com/dootv/live/hd-discovery
+https://www.doofootball.com/dootv/live/discovery
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F978fc2da-8f65-410f-bff8-931b22c37324.png&w=100&h=75" group-title="Documentary",Discovery Asia 
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2Fc9963ddf-818d-4d8b-abe6-c87604ba2f1e.png&w=100&h=75" group-title="Documentary",Nationnal Geographic 
 https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nat-geo-wild.png" group-title="Documentary",Nat Geo Wild
-https://www.doofootball.com/dootv/live/hd-natgeowild
+https://www.doofootball.com/dootv/live/natgeowild
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fdcf08ac0-b368-4991-99ea-e07df194bf63.png&w=100&h=75" group-title="Documentary",BBC Earth 
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=100&h=75" group-title="Documentary",True Wild
@@ -150,9 +150,9 @@ https://www.doofootball.com/dootv/live/3bbsport
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fb672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png&w=100&h=75" group-title="Sport",Motor vision
 https://www.doofootball.com/dootv/live/motorvision
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",True Tennis
-https://www.doofootball.com/dootv/live/tennis
+https://www.doofootball.com/dootv/live/truetennis
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fa1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png&w=100&h=75" group-title="Sport",NBA
-https://www.doofootball.com/dootv/live/nba
+https://www.doofootball.com/dootv/live/truenba
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png" group-title="Sport Inter",Sky Sport Premierleague
 https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football.png" group-title="Sport Inter",Sky Sport Football
