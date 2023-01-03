@@ -34,7 +34,7 @@ https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png" group-title="Digital TV",ID Station
 https://www.doofootball.com/dootv/live/trueidstation
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU" group-title="Movie Live",Fwmov
-http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+https://www.inwiptv.com/player_demo.php?channel=89782
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png" group-title="Movie Live",HBO
 https://www.doofootball.com/dootv/live/hbohd
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png" group-title="Movie Live",HBO Signature
