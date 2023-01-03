@@ -37,32 +37,32 @@ https://www.doofootball.com/dootv/live/hbohit
 https://www.doofootball.com/dootv/live/hbofamily
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png" group-title="Movie Live",Cinemax
 https://www.doofootball.com/dootv/live/cinemax
-#EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",NK TV
-http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",Movie World
+https://cdn6.goprimetime.info/feed/202205171929/LC11/index.m3u8
 #EXTINF:-1 tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_mono29plus.png?4" group-title="Movie Live",Mono29 Plus
 https://www.doofootball.com/dootv/live/monoplus
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Movie Hit 
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/moviehits
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Film HD 1
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/truefilmhd
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Movie Live",Film HD 2
 https://www.doofootball.com/dootv/live/truefilmhd2
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Movie Live",Thai Film
-https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Movie Live",Film Asia
 https://www.doofootball.com/dootv/live/truefilmasia
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png" group-title="Movie Live",Asian More
 https://www.doofootball.com/dootv/live/asianseries
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_320.png" group-title="Entertainment",Warner TV 
-https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://cdn6.goprimetime.info/feed/202205171929/LC28/index.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F783549d6-9b0d-4b4a-ab42-3bdd932bf544.png&w=100&h=75" group-title="Entertainment",Paramount 
 https://www.doofootball.com/dootv/live/paramount
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fa1e34189-e612-4afa-b784-6a01215bc592.png&w=100&h=75" group-title="Entertainment",AXN
-https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/axn
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="Entertainment",X-Zyte 
 https://www.doofootball.com/dootv/live/xzyte
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2F75398c9a-caad-4e92-8356-5a625a36c498.png&w=100&h=75" group-title="Entertainment",Lifetime 
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/lifetime
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fc187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png&w=100&h=75" group-title="Entertainment",BBC Lifestyle
 https://www.doofootball.com/dootv/live/bbclifestyle
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ff2c30832-7d77-4a24-88ad-1d30c593bda1.png&w=100&h=75" group-title="Entertainment",Outdoor
@@ -80,11 +80,11 @@ https://www.doofootball.com/dootv/live/blueantex
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQeqcL_atfy727Dbp4I0I5xMMupUu4dJQOkQ3gM8NCU3JFiV3mwXRm-spAYhxmpLb2lcA&usqp=CAU" group-title="Entertainment",Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/271438c0-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Entertainment",True Inside
-https://streaming.livescorethai.net/iptv/sd-inside.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/trueinside
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/28/3d92d760-200d-11ec-9629-7dc4459cd94d_webp_320.png" group-title="Entertainment",True Gaming Up
 https://www.doofootball.com/dootv/live/truegamingup
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7189340-f183-11ec-a182-bfa9d2091cc3_webp_320.png" group-title="Documentary",History
-https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/history
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F02%2F06%2F14c29171-17c8-4c57-996c-2e947bf8a34a.png&w=100&h=75" group-title="Documentary",Animal Plannet
 https://www.doofootball.com/dootv/live/animalplanet
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime Investigation
@@ -92,13 +92,13 @@ https://www.doofootball.com/dootv/live/ci
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png" group-title="Documentary",Discovery
 https://www.doofootball.com/dootv/live/discovery
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F978fc2da-8f65-410f-bff8-931b22c37324.png&w=100&h=75" group-title="Documentary",Discovery Asia 
-https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/discoveryasia
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2Fc9963ddf-818d-4d8b-abe6-c87604ba2f1e.png&w=100&h=75" group-title="Documentary",Nationnal Geographic 
-https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/natgeo
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nat-geo-wild.png" group-title="Documentary",Nat Geo Wild
 https://www.doofootball.com/dootv/live/natgeowild
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fdcf08ac0-b368-4991-99ea-e07df194bf63.png&w=100&h=75" group-title="Documentary",BBC Earth 
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=100&h=75" group-title="Documentary",True Wild
 https://www.doofootball.com/dootv/live/truewild
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F76f8506f-b775-4a6f-ba79-752ecb8ee516.png&w=100&h=75" group-title="Documentary",True Sci
@@ -110,37 +110,37 @@ https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.butterfire.com/wp-content/uploads/MySci.jpg" group-title="Documentary",My Sci
 https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
-https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf1/sport/tpf1/playlist.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1 
 https://www.doofootball.com/dootv/live/epl1
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 2
-https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/epl2
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 3
-https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/epl3
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Sport",TPF 4
-https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/epl4
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",TPF 5
-https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/epl5
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png" group-title="Sport",Bein 1
-https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein1/sport/bein1/playlist.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png" group-title="Sport",Bein 1 
 https://www.doofootball.com/dootv/live/bein1
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png" group-title="Sport",Bein 3
-https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein3/sport/bein3/playlist.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png" group-title="Sport",Bein 3 
 https://www.doofootball.com/dootv/live/bein3
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Sport",Sport HD1
-https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/truesporthd
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",Sport HD2
-https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/truesporthd2
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",Sport HD3
-https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/truesporthd3
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Sport",Sport HD4
-https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/truesporthd4
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Sport",Sport HD5
-https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/truesport5
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Sport",Sport HD7
-https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net/
+https://www.doofootball.com/dootv/live/truesport7
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv1/playlist.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 2
