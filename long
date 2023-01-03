@@ -4,7 +4,7 @@ http://27.254.142.208:8200/stream/1/
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png" group-title="Radio",เพื่่อชีวิต Request Radio
 https://cast.requestradio.in.th:830/https:/cast.requestradio.in.th:830/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=100&h=75" group-title="Digital TV",Workpoint
-https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8|Referer-user-agent=exoplayer
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=100&h=75" group-title="Digital TV",True4You
 https://cdn6.goprimetime.info/feed/202205171929/202105171329/chtrue4u/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png" group-title="Digital TV",GMM 25
