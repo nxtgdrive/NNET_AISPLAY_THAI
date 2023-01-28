@@ -46,6 +46,8 @@ https://www.doofootball.com/dootv/live/hbofamily
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png" group-title="Movie Live",Cinemax
 https://www.doofootball.com/dootv/live/cinemax
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",Movie World
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1494849824.m3u8
+#EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",Movie World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/LC11/index.m3u8
 #EXTINF:-1 tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_mono29plus.png?4" group-title="Movie Live",Mono29 Plus
