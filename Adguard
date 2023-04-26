@@ -1,5 +1,4 @@
-|https://www.youtube.com/api/stats/qoe?^
-|https://www.youtube.com/ptracking?^
-|https://www.youtube.com/api/stats/atr?^
-|https://www.youtube.com/youtubei/v1/log_event?^
-|https://www.facebook.com/ajax/bnzai?^
+||youtube.com/api/stats/qoe?^
+||youtube.com/ptracking?^
+||youtube.com/api/stats/atr?^
+||google.com/log?$redirect=nooptext^
