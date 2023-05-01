@@ -1,5 +1,1 @@
-||youtube.com/api/stats/qoe?^
-||youtube.com/api/stats/atr?^
-||youtube.com/ptracking?^
-||google.com/log?$redirect=nooptext^
-||facebook.com/ajax/bnzai*__comet_req=^
+||youtube.com/api/stats/qoe?fmt=^
