@@ -1,8 +1,4 @@
-||youtube.com/api/stats/qoe?fmt=^
-||youtube.com/youtubei/v1/log_event?alt=^
-||youtube.com/api/stats/atr?ns=^
-||youtube.com/ptracking?html5=^
-||youtube.com/pagead/^
-||google.com/pagead/^
-||facebook.com/ajax/bnzai?__a=1&__aaid=^
+||youtube.com/api/stats/qoe?^
+||youtube.com/api/stats/atr?^
+||facebook.com/ajax/bnzai*__comet_req=^
 ||moverl.com^
