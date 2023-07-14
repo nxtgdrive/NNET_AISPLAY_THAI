@@ -1,5 +1,7 @@
-||youtube.com/api/stats/qoe?^
-||youtube.com/api/stats/atr?^
-||youtube.com/ptracking?
-||google.com/log?$redirect=nooptext^
-||google.com/pagead/^
+||https://www.youtube.com/api/stats/qoe?^
+||https://www.youtube.com/api/stats/atr?^
+||https://www.youtube.com/ptracking?
+||https://www.google.com/log?$redirect=nooptext^
+||https://www.google.com/pagead/^
+||www.googleadservices.com^
+||ade.googlesyndication.com^
