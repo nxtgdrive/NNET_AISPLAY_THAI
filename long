@@ -23,9 +23,7 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png" group-title="Digital TV",PPTV
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/HLS/V0022.m3u8
-#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png" group-title="Movie Live",HBO
-https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDIzIDEwOjUxOjUwIEFNJmhhc2hfdmFsdWU9N3dVNFhKSGdjYVduRUFJU0xNaUJLZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzk4MzE2|Referer=https://wacth.tv/
-#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png" group-title="Movie Live",HBO
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png" group-title="Movie Live",HBO
 https://dkl-o53d.cdn.akamaiz.com/serieslive/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png" group-title="Movie Live",HBO Signature
 http://150.95.25.221:8000/HBO Signature?u=1548vhgcghc:p=8ghfv54gfcgh
@@ -79,6 +77,10 @@ https://cdn6.goprimetime.info/feed/202306140918/LC37/index.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf1/th-sport/tpf1/chunks.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1 
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
+https://iptv-th.com/play/qAwP_HR1lagV4iJz2oyIoYD_vqyXSZptgAoOsXo9EzA/m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
+https://iptv-th.com:443/play/qAwP_HR1lagV4iJz2oyIoYD_vqyXSZptgAoOsXo9EzA/m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 2
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 3
