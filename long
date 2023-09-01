@@ -106,9 +106,9 @@ https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8|Referer=h
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",Sport HD3
 https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv1/chunks.m3u8|Referer=https://www.livestream88.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv1/th-sport/spotv1/chunks.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 2
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv2/chunks.m3u8|Referer=https://www.livestream88.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/spotv2/th-sport/spotv1/chunks.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png" group-title="Sport Inter",Sky Sport Premierleague
 https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football.png" group-title="Sport Inter",Sky Sport Football
