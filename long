@@ -61,6 +61,10 @@ https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7189340-f183-11ec-a182-bfa9d2091cc3_webp_320.png" group-title="Documentary",History
 https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:0d:96:28&stream=115649&extension=ts&play_token
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime
+https://playerembed-lb.blackboxsys.net/player.php?channel=sd-ci&api_key=hmfklstgerter5|Referer=https://www.ufazeed.co
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F02%2F06%2F14c29171-17c8-4c57-996c-2e947bf8a34a.png&w=100&h=75" group-title="Documentary",Animal Plannet
 http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115610&extension=ts&play_token
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png" group-title="Documentary",Discovery
@@ -95,6 +99,8 @@ https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https:
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein1/sport/bein1/chunks.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png" group-title="Sport",Bein 1 
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_320.webp" group-title="Sport",Bein 2
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png" group-title="Sport",Bein 3
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein3/sport/bein3/chunks.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png" group-title="Sport",Bein 3 
