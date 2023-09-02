@@ -63,12 +63,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf8886100076698
 https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:0d:96:28&stream=115649&extension=ts&play_token
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime
-#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://playerembed-lb.blackboxsys.net/player.php?channel=sd-ci&api_key=hmfklstgerter5
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F02%2F06%2F14c29171-17c8-4c57-996c-2e947bf8a34a.png&w=100&h=75" group-title="Documentary",Animal Plannet
-http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115610&extension=ts&play_token
+https://www.ballnaja.com/television/Animal%20Planet
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png" group-title="Documentary",Discovery
 https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=|Referer=https://wacth.tv/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F978fc2da-8f65-410f-bff8-931b22c37324.png&w=100&h=75" group-title="Documentary",Discovery Asia 
