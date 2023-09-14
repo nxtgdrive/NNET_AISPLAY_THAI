@@ -4,7 +4,7 @@ http://27.254.142.208:8200/stream/1/
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png" group-title="Radio",เพื่่อชีวิต Request Radio
 https://cast.requestradio.in.th:830/https:/cast.requestradio.in.th:830/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="Digital TV",Workpoint
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0015/HLS/B0015.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="Digital TV",True4You
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/HLS/B0054.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="Digital TV",GMM 25
