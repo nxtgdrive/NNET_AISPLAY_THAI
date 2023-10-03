@@ -29,6 +29,8 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8|Referer=https://web-player.ais-vidnt.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="Movie Live",HBO
 https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="Movie Live",HBO Signature
+https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="Movie Live",Cinemax
 https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=|Referer=https://wacth.tv/
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",Channel 8
@@ -67,16 +69,14 @@ https://m1.ballnaja.com/live/ais_Animal_Planet/playlist.m3u8|Referer=https://www
 https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=|Referer=https://wacth.tv/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="Documentary",Discovery Asia 
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2Fc9963ddf-818d-4d8b-abe6-c87604ba2f1e.png&w=100&h=75" group-title="Documentary",Nationnal Geographic 
-https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fdcf08ac0-b368-4991-99ea-e07df194bf63.png&w=100&h=75" group-title="Documentary",BBC Earth 
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SamRujLok.png" group-title="Documentary",Sumlojlok
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8|Referer=https://web-player.ais-vidnt.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MySCI.png" group-title="Documentary",My Sci
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8|Referer=https://web-player.ais-vidnt.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AnimalShow.png" group-title="Documentary",Animal Show
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8|Referer=https://web-player.ais-vidnt.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf1/th-sport/tpf1/chunks.m3u8|Referer=https://www.livestream88.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1 
