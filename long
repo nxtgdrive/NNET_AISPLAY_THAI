@@ -28,11 +28,11 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="Digital TV",PPTV
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8|Referer=https://web-player.ais-vidnt.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="Movie Live",HBO
-https://m2.ballnaja.com:8443/HBOHD/playlist.m3u8|Referer=https://www.ballnaja.com/
+https://2nud.short.gy/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="Movie Live",HBO Signature
 https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="Movie Live",Cinemax
-https://streaming.livescorethai.net/iptv/hd-cinemax.stream/chunks.m3u8|Referer=https://freetvdd.com/
+http://119.59.125.18:8081/live/cinemax1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",Channel 8
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",Movie World
@@ -70,7 +70,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf8886100076698
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7189340-f183-11ec-a182-bfa9d2091cc3_webp_320.png" group-title="Documentary",History
 https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime
-https://dl.dropboxusercontent.com/scl/fi/ue16yobmshfka1xleabx2/crime.m3u8?rlkey=ffxc5lr54ylo9aiy5nnfco6zo&dl=0
+http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115649&extension=ts&play_token
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="Documentary",Animal Plannet
 https://m1.ballnaja.com/ais_Animal_Planet/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="Documentary",Discovery
