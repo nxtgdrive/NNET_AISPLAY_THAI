@@ -28,9 +28,9 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0017/DASH/V0017.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="Digital TV",PPTV
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="Movie Live",HBO
-http://ip168.homeip.net:8086/12.m3u8
+https://dookeela.live/live-tv/hbo
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="Movie Live",Cinemax
-http://ip168.homeip.net:8086/14.m3u8
+https://dookeela.live/live-tv/cinemax
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",Channel 8
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movie Live",Movie World
@@ -58,13 +58,13 @@ https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQeqcL_atfy727Dbp4I0I5xMMupUu4dJQOkQ3gM8NCU3JFiV3mwXRm-spAYhxmpLb2lcA&usqp=CAU" group-title="Movie Live",Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7189340-f183-11ec-a182-bfa9d2091cc3_webp_320.png" group-title="Documentary",History
-https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=https://freetvdd.com/
+https://wacthstream.com/stream_live/556_History/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime
-https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjM1OjA3IEFNJmhhc2hfdmFsdWU9TS8veDZwVy81T2pvNWdJZmlSc3VUQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQ2OTQ4|Referer=https://wacth.tv/
+https://wacthstream.com/stream_live/557_H2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="Documentary",Animal Plannet
-https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=sd-animalplanet&api_key=n3uf98s|Referer=https://ufanance.co/
+https://ctrl.laotv.la/live/AnimalPlanet/manifest.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="Documentary",Discovery
-https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=sd-discovery&api_key=n3uf98s|Referer=https://ufanance.co/
+https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="Documentary",Discovery Asia 
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fdcf08ac0-b368-4991-99ea-e07df194bf63.png&w=100&h=75" group-title="Documentary",BBC Earth 
