@@ -28,27 +28,27 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0017/DASH/V0017.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="Digital TV",PPTV
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="Entertainment",HBO
-https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/3BB_HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="Entertainment",HBO Signature
-https://wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/3BB_HBOsignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="Entertainment",HBO Hit
-https://wacthstream.com/stream_live/3BB_HBOhits/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/3BB_HBOhits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="Entertainment",Cinemax
-https://wacthstream.com/stream_live/3BB_CINEMAX./playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/3BB_CINEMAX./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//ParamountNetwork.png" group-title="Entertainment",Paramount
-https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/232_Paramount/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="Entertainment",Rock Entertainment
-https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/337_Rock_Entertainment/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="Entertainment",Rock Action
-https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/338_Rock_Extreme/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",Movie Hit 
-https://wacthstream.com/stream_live/224_MovieHit./playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/224_MovieHit./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",Film HD 1
-https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/222_True_Film_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Entertainment",Thai Film
-https://wacthstream.com/stream_live/236_TrueThaiFilmHD./playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/236_TrueThaiFilmHD./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="Entertainment",Warner TV
-https://wacthstream.com/stream_live/228_warner/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/228_warner/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",Channel 8
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",Movie World
@@ -58,35 +58,35 @@ http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",FWMOV
 https://www.inwiptv.com/player_demo.php?channel=95262
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fa1e34189-e612-4afa-b784-6a01215bc592.png&w=100&h=75" group-title="Entertainment",AXN
-https://wacthstream.com/stream_live/336_AXN/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/336_AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" group-title="Entertainment",Food Network
-https://wacthstream.com/stream_live/342_Food_Network/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/342_Food_Network/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="Entertainment",AFN
-https://wacthstream.com/stream_live/356_AFN/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/356_AFN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="Entertainment",X-Zyte 
-https://wacthstream.com/stream_live/340_Xzyte/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/340_Xzyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2F75398c9a-caad-4e92-8356-5a625a36c498.png&w=100&h=75" group-title="Entertainment",Lifetime 
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQeqcL_atfy727Dbp4I0I5xMMupUu4dJQOkQ3gM8NCU3JFiV3mwXRm-spAYhxmpLb2lcA&usqp=CAU" group-title="Entertainment",Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7189340-f183-11ec-a182-bfa9d2091cc3_webp_320.png" group-title="Documentary",History
-https://wacthstream.com/stream_live/556_History/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/556_History/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime
-https://wacthstream.com/stream_live/557_H2/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/557_H2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="Documentary",Animal Plannet
-https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/567_Animal_Planet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173645love-nature.png" group-title="Documentary",Love Nature
-https://wacthstream.com/stream_live/563_Love_Nature/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/563_Love_Nature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="Documentary",Discovery
-https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/562_Discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="Documentary",Discovery Asia 
-https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/555_Discovery_Asia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fdcf08ac0-b368-4991-99ea-e07df194bf63.png&w=100&h=75" group-title="Documentary",BBC Earth 
-https://wacthstream.com/stream_live/568_BBC_Earth/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/568_BBC_Earth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20231215000836bbc-life-style.png" group-title="Documentary",BBC LifeStyle
-https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/353_BBC_Life_Style/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220712131135outdoor.jpg" group-title="Documentary",Outdoor
-https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/673_OUTDOOR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SamRujLok.png" group-title="Documentary",Sumlojlok
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0151/DASH/V0151.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MySCI.png" group-title="Documentary",My Sci
@@ -94,11 +94,11 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0152/DASH/V0152.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AnimalShow.png" group-title="Documentary",Animal Show
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0153/DASH/V0153.mpd
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173633explorewild.jpg" group-title="Documentary",Explore Wild
-https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/559_ExploreWild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220623153313true_explore_sci.jpg" group-title="Documentary",Explore Sci
-https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/561_TRUE_EXPLORE_SCI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
-https://wacthstream.com/stream_live/600_eng1./playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/600_eng1./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
 https://ctrl.laotv.la/live/TSport1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1 
@@ -112,27 +112,27 @@ https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8|Referer=https:
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",TPF 5
 https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="Sport",Bein 1
-https://wacthstream.com/stream_live/607_BEIN1/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/607_BEIN1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="Sport",Bein 1 
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="Sport",Bein 2
 https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="Sport",Bein 3
-https://wacthstream.com/stream_live/608_BEIN2/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/608_BEIN2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="Sport",Bein 3 
 https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Sport",Sport HD1
-https://wacthstream.com/stream_live/666_Ts_HD1/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/666_Ts_HD1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",Sport HD2
-https://wacthstream.com/stream_live/667_Ts_HD2/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/667_Ts_HD2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",Sport HD3
-https://wacthstream.com/stream_live/668_Ts_HD3./playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/668_Ts_HD3./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 1
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-1/playlist.m3u8|Referer=https://ufabetcompany.app/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 2
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/chunks.m3u8|Referer=https://ufabetcompany.app/
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113192324motorvision.png" group-title="Sport",Motor Vision
-https://wacthstream.com/stream_live/687_motorvision/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/687_motorvision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png" group-title="Sport Inter",Sky Sport Premierleague
 https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football.png" group-title="Sport Inter",Sky Sport Football
