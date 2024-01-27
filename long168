@@ -57,15 +57,15 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
 http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png",FWMOV
 https://www.inwiptv.com/player_demo.php?channel=95262
-#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fa1e34189-e612-4afa-b784-6a01215bc592.png&w=100&h=75",AXN
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/7201f3bf-8e94-44ae-b227-c4273a952fc3.png",AXN
 https://sv2.wacthstream.com/wacth_tv/336_AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",Food Network
 https://sv2.wacthstream.com/wacth_tv/342_Food_Network/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",AFN
 https://sv2.wacthstream.com/wacth_tv/356_AFN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png",X-Zyte 
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/2318ba98-cb55-458a-91e7-2d2d56959527.png",X-Zyte 
 https://sv2.wacthstream.com/wacth_tv/340_Xzyte/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2F75398c9a-caad-4e92-8356-5a625a36c498.png&w=100&h=75",Lifetime 
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/881a56a8-0617-42d3-a0ad-61c41b69dff2.png",Lifetime 
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQeqcL_atfy727Dbp4I0I5xMMupUu4dJQOkQ3gM8NCU3JFiV3mwXRm-spAYhxmpLb2lcA&usqp=CAU",Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -75,17 +75,17 @@ https://sv2.wacthstream.com/wacth_tv/556_History/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/557_H2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",Animal Plannet
 https://sv2.wacthstream.com/wacth_tv/567_Animal_Planet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173645love-nature.png",Love Nature
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/b3db4547-735e-433a-8dbd-ef90f806c7c6.png",Love Nature
 https://sv2.wacthstream.com/wacth_tv/563_Love_Nature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",Discovery
 https://sv2.wacthstream.com/wacth_tv/562_Discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",Discovery Asia 
 https://sv2.wacthstream.com/wacth_tv/555_Discovery_Asia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fdcf08ac0-b368-4991-99ea-e07df194bf63.png&w=100&h=75",BBC Earth 
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/c5033f63-670f-4139-9252-4df75bb72139.png",BBC Earth 
 https://sv2.wacthstream.com/wacth_tv/568_BBC_Earth/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20231215000836bbc-life-style.png",BBC LifeStyle
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/908204fa-1d03-496c-92ee-283219efdf38.png",BBC LifeStyle
 https://sv2.wacthstream.com/wacth_tv/353_BBC_Life_Style/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220712131135outdoor.jpg",Outdoor
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/04bbb288-86a4-4448-b07f-e8c4d77647b8.png",Outdoor
 https://sv2.wacthstream.com/wacth_tv/673_OUTDOOR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SamRujLok.png",Sumlojlok
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0151/DASH/V0151.mpd
@@ -93,9 +93,9 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0151/DASH/V0151.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0152/DASH/V0152.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AnimalShow.png",Animal Show
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0153/DASH/V0153.mpd
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173633explorewild.jpg",Explore Wild
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/272ea7f6-defc-4c8c-a93b-fd4c60609811.png",Explore Wild
 https://sv2.wacthstream.com/wacth_tv/559_ExploreWild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220623153313true_explore_sci.jpg",Explore Sci
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/6b12de2c-f7d9-42d6-a631-788b679d02fe.png",Explore Sci
 https://sv2.wacthstream.com/wacth_tv/561_TRUE_EXPLORE_SCI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",TPF 1
 https://sv2.wacthstream.com/wacth_tv/600_eng1./playlist.m3u8
@@ -127,36 +127,12 @@ https://sv2.wacthstream.com/wacth_tv/666_Ts_HD1/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/667_Ts_HD2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",Sport HD3
 https://sv2.wacthstream.com/wacth_tv/668_Ts_HD3./playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",Spotv 1
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/e0f79c9e-71a6-44f5-81db-1aea1be6afff.jpg",Spotv 1
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-1/playlist.m3u8|Referer=https://ufabetcompany.app/
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",Spotv 2
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/65e3d469-3a1a-4204-8ac8-ca25891963c5.jpg",Spotv 2
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/chunks.m3u8|Referer=https://ufabetcompany.app/
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113192324motorvision.png",Motor Vision
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/cbb1d8fb-a654-4319-b496-312c95c575c4.png",Motor Vision
 https://sv2.wacthstream.com/wacth_tv/687_motorvision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png",Sky Sport Premierleague
-https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football.png",Sky Sport Football
-https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mainevent.png",Sky Sport Main Event
-https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-arena.png",Sky Sports Arena
-https://streaming.livescorethai.net/iptv/uk-skysports-arena.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-action.png",Sky Sports Action
-https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png",Sky Sport Bundesliga
-https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mix.png",Sky Sports Mix
-https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png",Euro Sport 1
-https://streaming.livescorethai.net/iptv/fr-eurosport.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png",Euro Sport 2
-https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png",Fox Sport 1
-https://streaming.livescorethai.net/iptv/us-foxsports1.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png",Fox Sport 2
-https://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/espn.png",ESPN
-https://streaming.livescorethai.net/iptv/uk-espn.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/unbrtK8zEjPANvNkbwhjpSxYWzN.jpg",Avatar 3D (2009)
 https://m1free.inwstream.com:1936/movie1/Avatar-2009-3D/Avatar-2009-TH-1080p-3D.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pMIduz1F4aQqD6OP26eOTiZ4i1P.jpg",Alita Battle Angel 3D (2019)
@@ -215,55 +191,55 @@ https://m1free.inwstream.com:1936/movie3/A-Quiet-Place-2018/A-Quiet-Place-2018-t
 https://m1free.inwstream.com:1936/movie3/A_Quiet_Place_Part_II_2020/A_Quiet_Place_Part_II_2020_th_1080p_F.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1P7w3AImoEOWJX7nn3fdaKDfEQA.jpg",Transformers (2007)
 https://m1free.inwstream.com:1936/movie2/Transformers-2007-2011/Transformers-2007-th-1080p.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Anal (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Anal (720p)
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Asian (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Asian (720p)
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Big Ass (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Big Ass (720p)
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Big Dick (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Big Dick (720p)
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Big Tits (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Big Tits (720p)
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Blonde (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Blonde (720p)
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Blowjob (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Blowjob (720p)
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Brunette (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Brunette (720p)
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Compilation (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Compilation (720p)
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Cuckold (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Cuckold (720p)
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Fetish (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Fetish (720p)
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Gangbang (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Gangbang (720p)
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Gay (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Gay (720p)
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Hardcore (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Hardcore (720p)
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Interracial (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Interracial (720p)
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Latina (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Latina (720p)
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Lesbian (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Lesbian (720p)
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Live Cams (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Live Cams (720p)
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net MILF (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net MILF (720p)
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Pornstar (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Pornstar (720p)
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net POV (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net POV (720p)
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Rough (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Rough (720p)
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Russian (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Russian (720p)
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Teen (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Teen (720p)
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Threesome (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Threesome (720p)
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Woman (720p)
+#EXTINF:-1 tvg-logo="",AdultIPTV.net Woman (720p)
 http://live.redtraffic.net/woman.m3u8
