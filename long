@@ -41,11 +41,11 @@ https://sv2.wacthstream.com/wacth_tv/232_Paramount/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/337_Rock_Entertainment/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="Entertainment",Rock Action
 https://sv2.wacthstream.com/wacth_tv/338_Rock_Extreme/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",Movie Hit 
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/10341207-b9a4-40ad-add0-899c052bb396.png" group-title="Entertainment",Movie Hit 
 https://sv2.wacthstream.com/wacth_tv/224_MovieHit./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",Film HD 1
 https://sv2.wacthstream.com/wacth_tv/222_True_Film_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Entertainment",Thai Film
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/9902ff70-a0f5-48c9-b8c0-e068a790a702.png" group-title="Entertainment",Thai Film
 https://sv2.wacthstream.com/wacth_tv/236_TrueThaiFilmHD./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="Entertainment",Warner TV
 https://sv2.wacthstream.com/wacth_tv/228_warner/playlist.m3u8
@@ -57,15 +57,15 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
 http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",FWMOV
 https://www.inwiptv.com/player_demo.php?channel=95262
-#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fa1e34189-e612-4afa-b784-6a01215bc592.png&w=100&h=75" group-title="Entertainment",AXN
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/7201f3bf-8e94-44ae-b227-c4273a952fc3.png" group-title="Entertainment",AXN
 https://sv2.wacthstream.com/wacth_tv/336_AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" group-title="Entertainment",Food Network
 https://sv2.wacthstream.com/wacth_tv/342_Food_Network/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="Entertainment",AFN
 https://sv2.wacthstream.com/wacth_tv/356_AFN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="Entertainment",X-Zyte 
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/2318ba98-cb55-458a-91e7-2d2d56959527.png" group-title="Entertainment",X-Zyte 
 https://sv2.wacthstream.com/wacth_tv/340_Xzyte/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F01%2F18%2F75398c9a-caad-4e92-8356-5a625a36c498.png&w=100&h=75" group-title="Entertainment",Lifetime 
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/881a56a8-0617-42d3-a0ad-61c41b69dff2.png" group-title="Entertainment",Lifetime
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQeqcL_atfy727Dbp4I0I5xMMupUu4dJQOkQ3gM8NCU3JFiV3mwXRm-spAYhxmpLb2lcA&usqp=CAU" group-title="Entertainment",Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -75,17 +75,17 @@ https://sv2.wacthstream.com/wacth_tv/556_History/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/557_H2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="Documentary",Animal Plannet
 https://sv2.wacthstream.com/wacth_tv/567_Animal_Planet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173645love-nature.png" group-title="Documentary",Love Nature
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/b3db4547-735e-433a-8dbd-ef90f806c7c6.png" group-title="Documentary",Love Nature
 https://sv2.wacthstream.com/wacth_tv/563_Love_Nature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="Documentary",Discovery
 https://sv2.wacthstream.com/wacth_tv/562_Discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="Documentary",Discovery Asia 
 https://sv2.wacthstream.com/wacth_tv/555_Discovery_Asia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fdcf08ac0-b368-4991-99ea-e07df194bf63.png&w=100&h=75" group-title="Documentary",BBC Earth 
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/c5033f63-670f-4139-9252-4df75bb72139.png" group-title="Documentary",BBC Earth 
 https://sv2.wacthstream.com/wacth_tv/568_BBC_Earth/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20231215000836bbc-life-style.png" group-title="Documentary",BBC LifeStyle
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/908204fa-1d03-496c-92ee-283219efdf38.png" group-title="Documentary",BBC LifeStyle
 https://sv2.wacthstream.com/wacth_tv/353_BBC_Life_Style/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220712131135outdoor.jpg" group-title="Documentary",Outdoor
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/04bbb288-86a4-4448-b07f-e8c4d77647b8.png" group-title="Documentary",Outdoor
 https://sv2.wacthstream.com/wacth_tv/673_OUTDOOR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SamRujLok.png" group-title="Documentary",Sumlojlok
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0151/DASH/V0151.mpd
@@ -93,9 +93,9 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0151/DASH/V0151.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0152/DASH/V0152.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AnimalShow.png" group-title="Documentary",Animal Show
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0153/DASH/V0153.mpd
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173633explorewild.jpg" group-title="Documentary",Explore Wild
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/272ea7f6-defc-4c8c-a93b-fd4c60609811.png" group-title="Documentary",Explore Wild
 https://sv2.wacthstream.com/wacth_tv/559_ExploreWild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220623153313true_explore_sci.jpg" group-title="Documentary",Explore Sci
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/6b12de2c-f7d9-42d6-a631-788b679d02fe.png" group-title="Documentary",Explore Sci
 https://sv2.wacthstream.com/wacth_tv/561_TRUE_EXPLORE_SCI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
 https://sv2.wacthstream.com/wacth_tv/600_eng1./playlist.m3u8
@@ -127,11 +127,11 @@ https://sv2.wacthstream.com/wacth_tv/666_Ts_HD1/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/667_Ts_HD2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",Sport HD3
 https://sv2.wacthstream.com/wacth_tv/668_Ts_HD3./playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 1
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/e0f79c9e-71a6-44f5-81db-1aea1be6afff.jpg" group-title="Sport",Spotv 1
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-1/playlist.m3u8|Referer=https://ufabetcompany.app/
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sport",Spotv 2
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/65e3d469-3a1a-4204-8ac8-ca25891963c5.jpg" group-title="Sport",Spotv 2
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/chunks.m3u8|Referer=https://ufabetcompany.app/
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113192324motorvision.png" group-title="Sport",Motor Vision
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/cbb1d8fb-a654-4319-b496-312c95c575c4.png" group-title="Sport",Motor Vision
 https://sv2.wacthstream.com/wacth_tv/687_motorvision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png" group-title="Sport Inter",Sky Sport Premierleague
 https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8|Referer=https://livescorethai.net/
