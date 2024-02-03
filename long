@@ -12,7 +12,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0019/DASH/V0019.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="Digital TV",CH 8
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0006/DASH/V0006.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="Digital TV",MONO  29
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="Digital TV",MCOT 30
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0008/DASH/V0008.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="Digital TV",One 31
@@ -21,56 +21,86 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0012/DASH/V0012.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0013/DASH/V0013.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="Digital TV",3HD
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0003/DASH/V0003.mpd
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="Digital TV",7HD
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0018/DASH/V0018.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="Digital TV",AmarinTV
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0017/DASH/V0017.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="Digital TV",7HD
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0018/DASH/V0018.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="Digital TV",PPTV
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="Entertainment",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="Entertainment",HBO
-https://sv2.wacthstream.com/wacth_tv/3BB_HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="Entertainment",HBO Signature
-https://sv2.wacthstream.com/wacth_tv/3BB_HBOsignature/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="Entertainment",HBO Hit
-https://sv2.wacthstream.com/wacth_tv/3BB_HBOhits/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="Entertainment",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="Entertainment",Cinemax
-https://sv2.wacthstream.com/wacth_tv/3BB_CINEMAX./playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//ParamountNetwork.png" group-title="Entertainment",Paramount
-https://sv2.wacthstream.com/wacth_tv/232_Paramount/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="Entertainment",Warner TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00a6eeb6a8623e7f5dd0de890fc55f52:57349ce17aa9f5692ad2fb7d9cdb01c7
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="Entertainment",Rock Entertainment
-https://sv2.wacthstream.com/wacth_tv/337_Rock_Entertainment/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3837d26526efca2fa1f18823bd073c0f:ab4d56168a618b2413beb137d70ac453
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="Entertainment",Rock Action
-https://sv2.wacthstream.com/wacth_tv/338_Rock_Extreme/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/10341207-b9a4-40ad-add0-899c052bb396.png" group-title="Entertainment",Movie Hit 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0166/DASH/V0166.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="Entertainment",Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=addb5987eda9963ed765295d835b8cc5:7a2df5920917f98f667aed830c92f084
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0138/DASH/V0138.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="Entertainment",Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=947a5fdf30b55968f25dce4e80074e4d:ec10530ba2e6861bdb6b18881aadff46
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0137/DASH/V0137.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="Entertainment",Mono Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2698a310f625b96ac6c46d5a7c8e779b:35b285a0ace10e4f4cbb7aab67c94fba
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0192/DASH/V0192.mpd
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/10341207-b9a4-40ad-add0-899c052bb396.png" group-title="Entertainment",True Movie Hit 
 https://sv2.wacthstream.com/wacth_tv/224_MovieHit./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",Film HD 1
 https://sv2.wacthstream.com/wacth_tv/222_True_Film_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/9902ff70-a0f5-48c9-b8c0-e068a790a702.png" group-title="Entertainment",Thai Film
 https://sv2.wacthstream.com/wacth_tv/236_TrueThaiFilmHD./playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="Entertainment",Warner TV
-https://sv2.wacthstream.com/wacth_tv/228_warner/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",Channel 8
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",Movie World
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",NK TV
 http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",FWMOV
-https://www.inwiptv.com/player_demo.php?channel=95262
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/7201f3bf-8e94-44ae-b227-c4273a952fc3.png" group-title="Entertainment",AXN
 https://sv2.wacthstream.com/wacth_tv/336_AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" group-title="Entertainment",Food Network
 https://sv2.wacthstream.com/wacth_tv/342_Food_Network/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="Entertainment",AFN
-https://sv2.wacthstream.com/wacth_tv/356_AFN/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/2318ba98-cb55-458a-91e7-2d2d56959527.png" group-title="Entertainment",X-Zyte 
 https://sv2.wacthstream.com/wacth_tv/340_Xzyte/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/881a56a8-0617-42d3-a0ad-61c41b69dff2.png" group-title="Entertainment",Lifetime
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="Entertainment",TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adfe8e6aa801559a4e129992c0f20403:6c7aefc27c4bea0fd10c282061c138d8
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQeqcL_atfy727Dbp4I0I5xMMupUu4dJQOkQ3gM8NCU3JFiV3mwXRm-spAYhxmpLb2lcA&usqp=CAU" group-title="Entertainment",Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7189340-f183-11ec-a182-bfa9d2091cc3_webp_320.png" group-title="Documentary",History
@@ -78,13 +108,21 @@ https://sv2.wacthstream.com/wacth_tv/556_History/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp" group-title="Documentary",Crime
 https://sv2.wacthstream.com/wacth_tv/557_H2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="Documentary",Animal Plannet
-https://sv2.wacthstream.com/wacth_tv/567_Animal_Planet/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=445b1220aeb39feb55a95944aeeb65f4:52d98a1cd54f99d67e6512799504d235
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0182/DASH/V0182.mpd
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/b3db4547-735e-433a-8dbd-ef90f806c7c6.png" group-title="Documentary",Love Nature
-https://sv2.wacthstream.com/wacth_tv/563_Love_Nature/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d0b58f6ba324ad5bf123a8098e3ad2f:45906f0ddd1e4c28ba9e9dc138d75da8
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="Documentary",Discovery
-https://sv2.wacthstream.com/wacth_tv/562_Discovery/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="Documentary",Discovery Asia 
-https://sv2.wacthstream.com/wacth_tv/555_Discovery_Asia/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/discoveryasia.html
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/c5033f63-670f-4139-9252-4df75bb72139.png" group-title="Documentary",BBC Earth 
 https://sv2.wacthstream.com/wacth_tv/568_BBC_Earth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/908204fa-1d03-496c-92ee-283219efdf38.png" group-title="Documentary",BBC LifeStyle
@@ -105,26 +143,26 @@ https://sv2.wacthstream.com/wacth_tv/561_TRUE_EXPLORE_SCI/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/600_eng1./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
 https://ctrl.laotv.la/live/TSport1/manifest.mpd
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1 
-https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 2
-https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8|Referer=https://livescorethai.net/
+https://sv2.wacthstream.com/wacth_tv/602_eng2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 3
-https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8|Referer=https://livescorethai.net/
+https://sv2.wacthstream.com/wacth_tv/603_eng3./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Sport",TPF 4
-https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8|Referer=https://livescorethai.net/
+https://sv2.wacthstream.com/wacth_tv/604_eng4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",TPF 5
-https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https://livescorethai.net/
+https://sv2.wacthstream.com/wacth_tv/605_eng5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="Sport",Bein 1
-https://sv2.wacthstream.com/wacth_tv/607_BEIN1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="Sport",Bein 1 
-https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="Sport",Bein 2
-https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8|Referer=https://livescorethai.net/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="Sport",Bein 3
-https://sv2.wacthstream.com/wacth_tv/608_BEIN2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="Sport",Bein 3 
-https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Sport",Sport HD1
 https://sv2.wacthstream.com/wacth_tv/666_Ts_HD1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Sport",Sport HD2
@@ -137,55 +175,19 @@ https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-1/playlis
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/chunks.m3u8|Referer=https://ufabetcompany.app/
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/cbb1d8fb-a654-4319-b496-312c95c575c4.png" group-title="Sport",Motor Vision
 https://sv2.wacthstream.com/wacth_tv/687_motorvision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Anal (720p)
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Asian (720p)
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Ass (720p)
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Dick (720p)
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Tits (720p)
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blonde (720p)
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blowjob (720p)
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Brunette (720p)
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Compilation (720p)
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Cuckold (720p)
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Fetish (720p)
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gangbang (720p)
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gay (720p)
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Hardcore (720p)
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Interracial (720p)
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Latina (720p)
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Lesbian (720p)
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Live Cams (720p)
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net MILF (720p)
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Pornstar (720p)
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net POV (720p)
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Rough (720p)
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Russian (720p)
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Teen (720p)
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Threesome (720p)
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Woman (720p)
-http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png" group-title="Sport",Bein 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png" group-title="Sport",Bein 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png" group-title="Sport",Bein 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png" group-title="Sport",Bein 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
