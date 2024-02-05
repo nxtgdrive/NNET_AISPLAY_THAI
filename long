@@ -131,7 +131,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="Documentary",Discovery Asia 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/discoveryasia.html
+#KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/c5033f63-670f-4139-9252-4df75bb72139.png" group-title="Documentary",BBC Earth 
 https://sv2.wacthstream.com/wacth_tv/568_BBC_Earth/playlist.m3u8
