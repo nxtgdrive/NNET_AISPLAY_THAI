@@ -89,6 +89,12 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
 http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/7201f3bf-8e94-44ae-b227-c4273a952fc3.png" group-title="Entertainment",AXN
 https://sv2.wacthstream.com/wacth_tv/336_AXN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="Entertainment",3BB Asian
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=379c40f0207c33f804d115d3ba77ee63:b20b45bea3d8bc7ad4961f813e79d0c1
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0191/DASH/V0191.mpd
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/6560b27f-4926-4f81-8415-67b504b8973d.png" group-title="Entertainment",Film Asia
+https://sv2.wacthstream.com/wacth_tv/237_TrueFilmAsia./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" group-title="Entertainment",Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7372347ddf65ab1594ee35362240dafa:4d78d33c15d1098214b3d3cd3bb7c2a4
@@ -103,6 +109,8 @@ https://sv2.wacthstream.com/wacth_tv/340_Xzyte/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adfe8e6aa801559a4e129992c0f20403:6c7aefc27c4bea0fd10c282061c138d8
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/881a56a8-0617-42d3-a0ad-61c41b69dff2.png" group-title="Entertainment",Lifetime
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQeqcL_atfy727Dbp4I0I5xMMupUu4dJQOkQ3gM8NCU3JFiV3mwXRm-spAYhxmpLb2lcA&usqp=CAU" group-title="Entertainment",Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7189340-f183-11ec-a182-bfa9d2091cc3_webp_320.png" group-title="Documentary",History
@@ -171,12 +179,18 @@ https://sv2.wacthstream.com/wacth_tv/666_Ts_HD1/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/667_Ts_HD2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",Sport HD3
 https://sv2.wacthstream.com/wacth_tv/668_Ts_HD3./playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="Sport",3BB Sport One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/e0f79c9e-71a6-44f5-81db-1aea1be6afff.jpg" group-title="Sport",Spotv 1
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-1/playlist.m3u8|Referer=https://ufabetcompany.app/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/65e3d469-3a1a-4204-8ac8-ca25891963c5.jpg" group-title="Sport",Spotv 2
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/chunks.m3u8|Referer=https://ufabetcompany.app/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?|Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/cbb1d8fb-a654-4319-b496-312c95c575c4.png" group-title="Sport",Motor Vision
 https://sv2.wacthstream.com/wacth_tv/687_motorvision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/8fe5e23d-0704-4c33-8189-85297e474497.png" group-title="Sport",Tennis
+https://sv2.wacthstream.com/wacth_tv/670_Tennis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png" group-title="Sport",Bein 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
