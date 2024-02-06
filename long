@@ -82,11 +82,11 @@ https://sv2.wacthstream.com/wacth_tv/222_True_Film_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/9902ff70-a0f5-48c9-b8c0-e068a790a702.png" group-title="Entertainment",Thai Film
 https://sv2.wacthstream.com/wacth_tv/236_TrueThaiFilmHD./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",Channel 8
-https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist.m3u8
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",Movie World
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Entertainment",NK TV
-http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
+http://sv1.afdc.live:9898/live/nktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/7201f3bf-8e94-44ae-b227-c4273a952fc3.png" group-title="Entertainment",AXN
 https://sv2.wacthstream.com/wacth_tv/336_AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="Entertainment",3BB Asian
