@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="", หนังพี่น้อย
-https://hot.24playerhd.com/public/dist/inde_rbt.html?id=2279adfdc819517e6560e810&seek=0&seekmin=0&fbclid=IwAR0GmDGEuyvDKTUraTWiz6owjVHqWLvpKm8DDw9-qnP-VVGDALKG0RCjxiY
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="", hbo
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
