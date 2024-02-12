@@ -153,6 +153,10 @@ https://sv2.wacthstream.com/wacth_tv/561_TRUE_EXPLORE_SCI/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/600_eng1./playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
 https://ctrl.laotv.la/live/TSport1/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c36f3b0f9a5677aff2f0a5bade6ac9:92314d7b1ce6b7541f7ff147b72f1e96
+https://2nud.short.gy/trueepl1.mpd
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 2
 https://sv2.wacthstream.com/wacth_tv/602_eng2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 3
