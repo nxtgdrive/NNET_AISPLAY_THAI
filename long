@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png" group-title="Radio",ลูกทุ่ง Request Radio
-http://27.254.142.208:8200/stream/1/
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png" group-title="Radio",เพื่่อชีวิต Request Radio
-https://cast.requestradio.in.th:830/https:/cast.requestradio.in.th:830/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="Digital TV",Workpoint
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0015/DASH/V0015.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="Digital TV",True4You
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0054/DASH/V0054.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="Digital TV",GMM 25
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0019/DASH/V0019.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="Digital TV",CH 8
@@ -24,9 +22,11 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0003/DASH/V0003.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="Digital TV",AmarinTV
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0017/DASH/V0017.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="Digital TV",7HD
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0018/DASH/V0018.mpd
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="Digital TV",PPTV
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="Entertainment",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
@@ -156,7 +156,7 @@ https://ctrl.laotv.la/live/TSport1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c36f3b0f9a5677aff2f0a5bade6ac9:92314d7b1ce6b7541f7ff147b72f1e96
-https://2nud.short.gy/trueepl1.mpd
+https://cdn116.stm.trueid.net/p105drm/ht111_multi_m_auto_wv_tidapp.smil/manifest_w582858639_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNDE2NjY3NTkmZGlkPU5HTTRORE5tWkdRMVpEWTBNR016T0Emc2lkPWEyYmVjYTY1ODgmcnQ9MTcwNzg1MDA3NyZkcz04NjQwMCZ0az02Y0tRNUpLd0ZieU04cDJtMXZ5YTZoVTM2bm1vSlFHMG1aY0J4NF9CRGRR.mpd
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 2
 https://sv2.wacthstream.com/wacth_tv/602_eng2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Sport",TPF 3
@@ -215,6 +215,10 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png" group-title="Radio",ลูกทุ่ง Request Radio
+http://27.254.142.208:8200/stream/1/
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png" group-title="Radio",เพื่่อชีวิต Request Radio
+https://cast.requestradio.in.th:830/https:/cast.requestradio.in.th:830/
 #EXTINF:-1 tvg-logo="" group-title="XXX",Anal 
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-logo="" group-title="XXX",Asian 
