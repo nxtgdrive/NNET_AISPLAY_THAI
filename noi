@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png" group-title="Radio",ลูกทุ่ง Request Radio
-http://27.254.142.208:8200/stream/1/
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png" group-title="Radio",เพื่่อชีวิต Request Radio
-https://cast.requestradio.in.th:830/https:/cast.requestradio.in.th:830/
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="Digital TV",Workpoint
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0015/DASH/V0015.mpd
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="Digital TV",True4You
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0054/DASH/V0054.mpd
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="Entertainment",HBO
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="Entertainment",HBO Signature
-#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/10341207-b9a4-40ad-add0-899c052bb396.png" group-title="Entertainment",True Movie Hit
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f75ff165c14d50ab80965fed2d5b469f:731a4c8c2f289bbbf99c0fc05276ea5e
+https://cdn756.stm.trueid.net/p401drm/057_multi_m_auto_wv_tidapp.smil/manifest_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNDE2NjY3NTkmZGlkPU5HTTRORE5tWkdRMVpEWTBNR016T0Emc2lkPThlOWJmN2Q3OTkmcnQ9MTcwNzkwNjE0NCZkcz04NjQwMCZ0az1uMW11QUtBQmVxTExTRGhEYkFKR2gzTXhySFFOX3dZT2hQNTdSWkRnaWRZ.mpd
