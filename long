@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="Digital TV",Workpoint TV
+#EXTINF:-1 tvg-chno="23" tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="TV DIGITAL", WorkpointTV
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0015/DASH/V0015.mpd
-#EXTINF:-1 tvg-id="True 4 U.th" tvg-name="True 4 U" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="Digital TV",True 4 U
+#EXTINF:-1 tvg-chno="24" tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="TV DIGITAL", True4U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
-#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM25" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="Digital TV",GMM25
+#EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="TV DIGITAL", GMM25
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0019/DASH/V0019.mpd
-#EXTINF:-1 tvg-id="CH8.th" tvg-name="CH8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="Digital TV",CH8
+#EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="TV DIGITAL", CH8
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0006/DASH/V0006.mpd
-#EXTINF:-1 tvg-id="MONO.th" tvg-name="MONO" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="Digital TV",MONO  29
+#EXTINF:-1 tvg-chno="29" tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="TV DIGITAL", MONO 29
 https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MCOT HD.th" tvg-name="MCOT HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="Digital TV",MCOT HD
+#EXTINF:-1 tvg-chno="30" tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="TV DIGITAL", MCOT HD
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0008/DASH/V0008.mpd
-#EXTINF:-1 tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="Digital TV",One 31 HD
+#EXTINF:-1 tvg-chno="31" tvg-id="OneHD.th" tvg-name="ONE HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="TV DIGITAL", ONEHD 31
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0012/DASH/V0012.mpd
-#EXTINF:-1 tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="Digital TV",Thairath TV
+#EXTINF:-1 tvg-chno="32" tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="TV DIGITAL", Thairath TV
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0013/DASH/V0013.mpd
-#EXTINF:-1 tvg-id="3 HD.th" tvg-name="3 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="Digital TV",3 HD
+#EXTINF:-1 tvg-chno="33" tvg-id="CH3.th" tvg-name="CH3 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="TV DIGITAL", CH3HD
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0003/DASH/V0003.mpd
-#EXTINF:-1 tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="Digital TV",AmarinTV HD
+#EXTINF:-1 tvg-chno="34" tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="TV DIGITAL", AMARINTV
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0017/DASH/V0017.mpd
-#EXTINF:-1 tvg-id="CH7 HD.th" tvg-name="CH7 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="Digital TV",7HD
+#EXTINF:-1 tvg-chno="35" tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="TV DIGITAL", BBTV Channel 7
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-#EXTINF:-1 tvg-id="PPTV HD.th" tvg-name="PPTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="Digital TV",PPTV HD
+#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="TV DIGITAL", PPTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
