@@ -1,0 +1,59 @@
+<tv generator-info-name="Crazy EPG 0.8.4 - BEVY Software" generator-info-url="https://www.bevy.be">
+<channel id="Play Sports 1">
+<display-name lang="nl">Play Sports 1</display-name>
+<icon src="https://cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM0C8.png"/>
+</channel>
+<channel id="Play Sports 2">
+<display-name lang="nl">Play Sports 2</display-name>
+<icon src="https://cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM376.png"/>
+</channel>
+<channel id="Play Sports 3">
+<display-name lang="nl">Play Sports 3</display-name>
+<icon src="https://cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM377.png"/>
+</channel>
+<channel id="Arena Premium 1.ba">
+<display-name lang="bs">Arena Premium 1.ba</display-name>
+</channel>
+<channel id="Arena Premium 2.ba">
+<display-name lang="bs">Arena Premium 2.ba</display-name>
+</channel>
+<channel id="Arena Premium 3.ba">
+<display-name lang="bs">Arena Premium 3.ba</display-name>
+</channel>
+<channel id="ELEVEN SPORTS 1">
+<display-name lang="pt">ELEVEN SPORTS 1</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http://vip.repositories.local.internal/Repositories.EPG/OttChannelIcons/canalnos1.pngandprofile=ott_16_220x64andclient_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFIandformat=image/png"/>
+</channel>
+<channel id="ELEVEN SPORTS 2">
+<display-name lang="pt">ELEVEN SPORTS 2</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http://vip.repositories.local.internal/Repositories.EPG/OttChannelIcons/canalnos2.pngandprofile=ott_16_220x64andclient_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFIandformat=image/png"/>
+</channel>
+<channel id="ELEVEN SPORTS 3">
+<display-name lang="pt">ELEVEN SPORTS 3</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http://vip.repositories.local.internal/Repositories.EPG/OttChannelIcons/DESP3HD.pngandprofile=ott_16_220x64andclient_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFIandformat=image/png"/>
+</channel>
+<channel id="ELEVEN SPORTS 4">
+<display-name lang="pt">ELEVEN SPORTS 4</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http://vip.repositories.local.internal/Repositories.EPG/OttChannelIcons/DESP4HD.pngandprofile=ott_16_220x64andclient_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFIandformat=image/png"/>
+</channel>
+<channel id="ELEVEN SPORTS 5">
+<display-name lang="pt">ELEVEN SPORTS 5</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http://vip.repositories.local.internal/Repositories.EPG/OttChannelIcons/DESP5HD.pngandprofile=ott_16_220x64andclient_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFIandformat=image/png"/>
+</channel>
+<channel id="ELEVEN SPORTS 6">
+<display-name lang="pt">ELEVEN SPORTS 6</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http://vip.repositories.local.internal/Repositories.EPG/OttChannelIcons/DESP6HD.pngandprofile=ott_16_220x64andclient_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFIandformat=image/png"/>
+</channel>
+<channel id="3 HD.th">
+<display-name lang="th">3 HD.th</display-name>
+<icon src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.png"/>
+</channel>
+<channel id="3BB Asian.th">
+<display-name lang="th">3BB Asian.th</display-name>
+<icon src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//3BBAsian_new.png"/>
+</channel>
+<channel id="3BB Sports One.th">
+<display-name lang="th">3BB Sports One.th</display-name>
+<icon src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//3BBsports1_new.png"/>
+</channel>
+<channel id="4050.th">
