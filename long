@@ -131,6 +131,14 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
+#EXTINF:-1 tvg-id="Global Trekker.th" tvg-name="Global Trekker.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png" group-title="Documentary",Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c67bc71fc46a9af8e839ac84794f570:5375508840e044432a708c3fba038c05
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0023/DASH/V0023.mpd
+#EXTINF:-1 tvg-id="TechStorm.th" tvg-name="TechStorm.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png" group-title="Documentary",TechStorm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dca989ef784fa310300fa21c893dbcf3:fb9068e0516852ee0ec251605322e549
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd
 #EXTINF:-1 tvg-logo="https://truevisions.co.th/static/c5033f63-670f-4139-9252-4df75bb72139.png" group-title="Documentary",BBC Earth 
 https://sv2.wacthstream.com/wacth_tv/568_BBC_Earth/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle.th" tvg-name="BBC Lifestyle.th" tvg-logo="https://truevisions.co.th/static/908204fa-1d03-496c-92ee-283219efdf38.png" group-title="Documentary",BBC Lifestyle
