@@ -1,6 +1,36 @@
-<tv generator-info-name="Crazy EPG 0.8.4 - BEVY Software" generator-info-url="https://www.bevy.be">
-  <channel id="Workpoint TV.th">
-<display-name lang="th">Workpoint.th</display-name>
-<icon src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0015_R.png"/>
-</channel>
-  
+#EXTM3U
+#EXTINF:-0 group-title="3BBTV" tvg-id="3BB Asian" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//
+_new.png", 3BB Asian
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfU1drZHgxSE5aVGduTlJ5R0l0T1YiLCJjaWQiOiJWMDE5MSIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzNEb21pV3dZRitNY3BKTWQzY0Frd1YiLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjAzOjM2WiIsImhhc2giOiJQSFdTWVBycVdoU3ZwYTViR0VabGk2K2thT2hPMUR6QXRIOGVBU2htcjlzPSJ9
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0191/DASH/V0191.mpd
+
+#EXTINF:-0 group-title="3BBTV" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png", Warner
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfUms0RzlDOUJKcnVnVVplRFdZOWQiLCJjaWQiOiJYMTA1IiwidG9rZW4iOiI2aldidEJYb0x2bzVqWFNwZm40c1dUMHJUNEZHanErbVljL2VvT2VDSkpnSE5ZTW4vMXFrSDN1cVdTei81TW5nNUVYdVo1Mm5zK05aUW5Nekl1TWZLT0VqaXpBTlUvU000azVGZ0VaYUxjM0UxVFUyTjR3ODc5Yit6d3ZQSDlyUyIsInRpbWVzdGFtcCI6IjIwMjMtMTEtMjJUMDQ6MDQ6MjRaIiwiaGFzaCI6InZPUEtuaFA5NlNsL2JmZ1ZFbWF0di9sVHZXZlZDWWV4S1h5QWdKTW40Yms9In0=
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
+
+#EXTINF:-0 group-title="3BBTV" tvg-id="MONO29 PLUS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",MONO29 PLUS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfdnNYVXFGOEFUWUVMUmFCSndLdVgiLCJjaWQiOiJWMDE5MiIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzFOZm9ucTAycjZZU0hreWsvdTArZHciLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjA1OjQ3WiIsImhhc2giOiJobVZQcU9PR0U0R21weXVRMWFaQ2FVNzJNTklQUHdydUdDa3Z2QVd4dHA4PSJ9
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0192/DASH/V0192.mpd
+
+#EXTINF:-0 group-title="3BBTV" tvg-id="Paramount" tvg-logo="https://cdn.windowsreport.com/wp-content/uploads/2020/08/Paramount-Network-Spike-TV-live-stream.jpg",Paramount
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfbDdPWEF0MWVGcWc4OXptbVNwR2EiLCJjaWQiOiJWMDE4NSIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzB0WVEvejlFdWF2Uk5wd3hVaGx5bm8iLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjA2OjE3WiIsImhhc2giOiJoVTU5VlBFemJFRFRJMTVrNHhWSHhUV1VKcHJtMk5qZGVwdlhZMGM0aHM0PSJ9
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd
+
+#EXTINF:-0 group-title="3BBTV" tvg-id="Hits Movies" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfbUdEVTV5cURhU1lTQVEwc3BJNkEiLCJjaWQiOiJWMDEzOCIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzJZSkVma05TQjBqcGxiT1JNSSs0blEiLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjA2OjQ3WiIsImhhc2giOiJJZlRVVWkrbzByc3U2KytLcFpEWnNqaFR1R2NRMDVia3lRbkN1TUtKUU5ZPSJ9
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0138/DASH/V0138.mpd
+
+#EXTINF:-0 group-title="3BBTV" tvg-id="Hits" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",Hits
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfUjBhWnZSQXp6WFRkb1NQa2FxUzgiLCJjaWQiOiJWMDEzNyIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzFYeHVzNDBmMzFwYzZuQjZnSnVnR0ciLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjEwOjU5WiIsImhhc2giOiJIUnY0YlBueEZIRS9vb2dLSTN1eXNlanZ2c1A5NVVRa203aURGUEpFWmhFPSJ9
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0137/DASH/V0137.mpd
+
+#EXTINF:-0 group-title="3BBTV" tvg-id="Music Station" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png",Music Station
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfZEdMbVRPVEZzVFBKM0M2dTBhak8iLCJjaWQiOiJWMDE5MyIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzB6cVlhdGpDSmtpbjJNQzVFeUl5cVkiLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjE1OjE5WiIsImhhc2giOiJVcE04SWo0TzNoRlJzaDh5a1paWVR3aEZxQ3hXc21WOEhzNVU1b0w3M3FRPSJ9
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0193/DASH/V0193.mpd
